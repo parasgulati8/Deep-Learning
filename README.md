@@ -1,4 +1,4 @@
-# Image Prediction with CNN
+# Image Detection with CNN
 ## Description
 This model can predict an image if it belongs to one class or the other. For training the model, I have used images of 8000 images of 
 Cats and Dogs (4000 each) and used a test set of 2000 images (1000 of each class).
