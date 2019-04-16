@@ -40,6 +40,6 @@ test = testDataGen.flow_from_directory('dataset/test_set', target_size = (64, 64
                                         batch_size = 32, class_mode = 'binary')
 
 model.fit_generator(train, verbose=2, steps_per_epoch = 8000,
-                         epochs = 25,
+                         epochs = 10,
                          validation_data = test,
                          validation_steps = 2000)
