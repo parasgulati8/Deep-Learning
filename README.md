@@ -5,7 +5,8 @@ Cats and Dogs (4000 each) and used a test set of 2000 images (1000 of each class
 
 ## Installation
 Download the code and save it in same folder/directory as of your dataset. You can use the same Dataset for Cats and Dogs or you can use any other dataset. 
-Dataset is strategically distributed in folders of training and trst and further into two separate class. Then Use any python IDE to run the code. 
+Dataset is strategically distributed in folders of training and test and further into two separate class. Then use any python IDE to run the code. 
+
 You can view the accuracy of training and test set for each epoch. 
 
 ## Usage
